@@ -1,5 +1,6 @@
 #based on the fba_cmx script https://github.com/desihub/fiberassign/blob/master/bin/fba_cmx
 #!/usr/bin/env python
+# first use source /global/cfs/cdirs/desi/software/desi_environment.sh master
 
 import os
 import sys
