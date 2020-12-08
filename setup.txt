@@ -1,0 +1,38 @@
+
+(1)  all LRG,ELG,QSO fields will be designed with 2X std star and sky
+fiber allocation relative to 5yr program.  This is 200 std stars (at
+best effort) and 800 sky fibers
+
+(2)  before science targets, white dwarf stars will be assigned fibers
+at the highest priority to assist in flux calibration tests.
+
+(3)  each ELG field will be assigned fibers using the full SV target
+lists with ELG only.
+
+(4)  each LRG/QSO field will be assigned fibers using the full SV target
+lists with QSO at highest priority and LRG at next highest priority.
+At lowest priority will be ELG targets to soak up the remaining ~1000 fibers per
+field.  To best effort, Anand will use either priorities or NOBS to
+reject ELG targets that were assigned in (3)
+
+(5)  There will be three field centers for LRG+QSO and three field
+centers for ELG.  Those will be at the location of the DES SN field
+(also XMM-LLS), COSMOS, and a third field that is visible in the middle
+of the night.  The following field centers should be confirmed:
+
+new moon is Dec 13:  23 57 <LST< 11 00
+
+(a) First ~4 hours of night:  DES SN + XMM-LLS at (RA,DEC) = (36.448,
+-4.601):  one ELG field and one LRG+QSO field
+
+(b)  middle of night:  field in Bok+Mzls region
+(RA,DEC) = (115, +50):  one ELG field and one LRG+QSO field
+
+(c) last ~3 hours of night:  COSMOS at (RA,DEC) = (150.11916667,
++2.20583333):  one ELG field and one LRG+QSO field
+
+
+Secondary targets are important, but will be assigned in the full suite
+of fiber assignments starting in January.  For now, we should just plan
+3 LRG+QSO fields and 3 ELG fields.  We also need a plan for BGS to be
+sampled in varying moon conditions and a plan for MWS in December.
